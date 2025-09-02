@@ -107,12 +107,12 @@ int main(){
 // int a = 2*3/4+4/4+8-2+5/8
 // ans = 8
 
-/*
+
 int main(){
     int p = 5, q = 10 , r =15;
     p += q -= p ;
     cout<<p<<" "<<q;
 }
-*/
+
 
 
